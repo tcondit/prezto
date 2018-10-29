@@ -12,6 +12,9 @@ fi
 
 # Customize to your needs...
 
+export EDITOR=nvim
+export VISUAL=nvim
+
 # https://github.com/denysdovhan/spaceship-prompt/issues/113
 # ORDER
 SPACESHIP_PROMPT_ORDER=(
